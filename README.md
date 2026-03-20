@@ -18,7 +18,7 @@ This was a project I worked on to get a clearer picture of how the pandemic unfo
 | [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) | Daily confirmed cases and deaths by country |
 | [Our World in Data](https://github.com/owid/covid-19-data) | Vaccination rates by country |
 
-Both datasets are publicly available. Download instructions are in `data/README_data.md`.
+Both datasets are publicly available.
 
 ## Tools used
 
@@ -47,5 +47,5 @@ All output charts are in the `outputs/` folder.
 
 ---
 
-**Muhammad Masoom Khan** — Data Analyst | MSF Holland  
+**Muhammad Masoom Khan** — ICT Supervisor | MSF OCA  
 [Portfolio](https://masoom-khan.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammadmasoomkhan/)
